@@ -27,4 +27,4 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://www.gnu.org/licenses/](GNU License v3.0/)
+The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://www.gnu.org/licenses](GNU License v3.0)
