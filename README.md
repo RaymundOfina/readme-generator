@@ -30,5 +30,11 @@ This is a Node.js application that uses the terminal input to help build a profe
 *Some of the prompts are required so you will be re-prompted if needed
 *Once you answer all of the prompts, a README.md file will be outputted in the same directory as your project files.
 
+
+## Video Walkthrough:
+
+https://user-images.githubusercontent.com/57610153/170841975-98736042-6eae-41b2-b385-86e3f755da19.mov
+
+
 ## License
  https://www.gnu.org/licenses/
