@@ -15,11 +15,11 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-*Download or clone the project files 
-*Download and install Node.js 
-*Open a terminal window
-*Navigate to the directory in which you placed the project files
-*Type the command 'npm install' to install all project dependencies
+* Download or clone the project files 
+* Download and install Node.js 
+* Open a terminal window
+* Navigate to the directory in which you placed the project files
+* Type the command 'npm install' to install all project dependencies
 
 
 ## Usage 
